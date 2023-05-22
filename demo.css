@@ -1,0 +1,15 @@
+
+input,textarea{
+    width: 100%;
+    background-color: transparent;
+    border: none;  
+    outline: none;
+}
+#cont{
+    padding: 10px;
+    border: 2px solid rgb(248, 207, 207);
+}
+#card{
+    width: 30%;
+    
+}
